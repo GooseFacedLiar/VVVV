@@ -8,10 +8,17 @@ The 4V is a Stoplight with 3 modes. Acceptable, A bit loud, and too loud, (All m
 It will require:
 
 A python library to listen for audio
+
 A library for Python to communicate with an arduino
+
 Arduino code to change color based on volume thresholds set by user
+
 Arduino
+
 3 LED Lights
+
 A box
+
 Wires
+
 Breadboard
