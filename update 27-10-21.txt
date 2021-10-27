@@ -1,0 +1,4 @@
+Woo! I got arduino working on my PC!
+Now I'm gonna try to combine it with my sound detector!
+
+Title is DD-MM-YY.
